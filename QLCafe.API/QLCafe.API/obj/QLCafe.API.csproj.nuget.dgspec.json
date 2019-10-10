@@ -1,0 +1,378 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.API\\QLCafe.API.csproj": {}
+  },
+  "projects": {
+    "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.API\\QLCafe.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.API\\QLCafe.API.csproj",
+        "projectName": "QLCafe.API",
+        "projectPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.API\\QLCafe.API.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.BAL.Interface\\QLCafe.BAL.Interface.csproj": {
+                "projectPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.BAL.Interface\\QLCafe.BAL.Interface.csproj"
+              },
+              "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.BAL\\QLCafe.BAL.csproj": {
+                "projectPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.BAL\\QLCafe.BAL.csproj"
+              },
+              "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.DAL.Interface\\QLCafe.DAL.Interface.csproj": {
+                "projectPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.DAL.Interface\\QLCafe.DAL.Interface.csproj"
+              },
+              "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.DAL\\QLCafe.DAL.csproj": {
+                "projectPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.DAL\\QLCafe.DAL.csproj"
+              },
+              "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.Domain\\QLCafe.Domain.csproj": {
+                "projectPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.Domain\\QLCafe.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.BAL.Interface\\QLCafe.BAL.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.BAL.Interface\\QLCafe.BAL.Interface.csproj",
+        "projectName": "QLCafe.BAL.Interface",
+        "projectPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.BAL.Interface\\QLCafe.BAL.Interface.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.BAL.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.Domain\\QLCafe.Domain.csproj": {
+                "projectPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.Domain\\QLCafe.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.BAL\\QLCafe.BAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.BAL\\QLCafe.BAL.csproj",
+        "projectName": "QLCafe.BAL",
+        "projectPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.BAL\\QLCafe.BAL.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.BAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.BAL.Interface\\QLCafe.BAL.Interface.csproj": {
+                "projectPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.BAL.Interface\\QLCafe.BAL.Interface.csproj"
+              },
+              "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.DAL.Interface\\QLCafe.DAL.Interface.csproj": {
+                "projectPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.DAL.Interface\\QLCafe.DAL.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.DAL.Interface\\QLCafe.DAL.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.DAL.Interface\\QLCafe.DAL.Interface.csproj",
+        "projectName": "QLCafe.DAL.Interface",
+        "projectPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.DAL.Interface\\QLCafe.DAL.Interface.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.DAL.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.Domain\\QLCafe.Domain.csproj": {
+                "projectPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.Domain\\QLCafe.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.DAL\\QLCafe.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.DAL\\QLCafe.DAL.csproj",
+        "projectName": "QLCafe.DAL",
+        "projectPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.DAL\\QLCafe.DAL.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.DAL.Interface\\QLCafe.DAL.Interface.csproj": {
+                "projectPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.DAL.Interface\\QLCafe.DAL.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.4, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.Domain\\QLCafe.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.Domain\\QLCafe.Domain.csproj",
+        "projectName": "QLCafe.Domain",
+        "projectPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.Domain\\QLCafe.Domain.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
