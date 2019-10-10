@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.Domain\\QLCafe.Domain.csproj": {}
+    "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.Domain\\QLCafe.Domain.csproj": {}
   },
   "projects": {
-    "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.Domain\\QLCafe.Domain.csproj": {
+    "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.Domain\\QLCafe.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.Domain\\QLCafe.Domain.csproj",
+        "projectUniqueName": "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.Domain\\QLCafe.Domain.csproj",
         "projectName": "QLCafe.Domain",
-        "projectPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.Domain\\QLCafe.Domain.csproj",
+        "projectPath": "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.Domain\\QLCafe.Domain.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.Domain\\obj\\",
+        "outputPath": "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

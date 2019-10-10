@@ -20,7 +20,7 @@ namespace QLCafe.BAL
             return _tableCoffeesRepository.TableCoffeesAdd(Requets);
         }
 
-        public bool TableCoffeesAddByID(TableCoffeesAdd Requets)
+        public bool TableCoffeesAddByID(TableCoffeesAddByID Requets)
         {
             return _tableCoffeesRepository.TableCoffeesAddByID(Requets);
         }

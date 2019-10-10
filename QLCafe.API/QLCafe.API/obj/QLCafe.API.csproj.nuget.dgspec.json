@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.API\\QLCafe.API.csproj": {}
+    "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.API\\QLCafe.API.csproj": {}
   },
   "projects": {
-    "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.API\\QLCafe.API.csproj": {
+    "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.API\\QLCafe.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.API\\QLCafe.API.csproj",
+        "projectUniqueName": "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.API\\QLCafe.API.csproj",
         "projectName": "QLCafe.API",
-        "projectPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.API\\QLCafe.API.csproj",
+        "projectPath": "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.API\\QLCafe.API.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.API\\obj\\",
+        "outputPath": "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,20 +30,20 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.BAL.Interface\\QLCafe.BAL.Interface.csproj": {
-                "projectPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.BAL.Interface\\QLCafe.BAL.Interface.csproj"
+              "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.BAL.Interface\\QLCafe.BAL.Interface.csproj": {
+                "projectPath": "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.BAL.Interface\\QLCafe.BAL.Interface.csproj"
               },
-              "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.BAL\\QLCafe.BAL.csproj": {
-                "projectPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.BAL\\QLCafe.BAL.csproj"
+              "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.BAL\\QLCafe.BAL.csproj": {
+                "projectPath": "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.BAL\\QLCafe.BAL.csproj"
               },
-              "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.DAL.Interface\\QLCafe.DAL.Interface.csproj": {
-                "projectPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.DAL.Interface\\QLCafe.DAL.Interface.csproj"
+              "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.DAL.Interface\\QLCafe.DAL.Interface.csproj": {
+                "projectPath": "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.DAL.Interface\\QLCafe.DAL.Interface.csproj"
               },
-              "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.DAL\\QLCafe.DAL.csproj": {
-                "projectPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.DAL\\QLCafe.DAL.csproj"
+              "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.DAL\\QLCafe.DAL.csproj": {
+                "projectPath": "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.DAL\\QLCafe.DAL.csproj"
               },
-              "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.Domain\\QLCafe.Domain.csproj": {
-                "projectPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.Domain\\QLCafe.Domain.csproj"
+              "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.Domain\\QLCafe.Domain.csproj": {
+                "projectPath": "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.Domain\\QLCafe.Domain.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.BAL.Interface\\QLCafe.BAL.Interface.csproj": {
+    "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.BAL.Interface\\QLCafe.BAL.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.BAL.Interface\\QLCafe.BAL.Interface.csproj",
+        "projectUniqueName": "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.BAL.Interface\\QLCafe.BAL.Interface.csproj",
         "projectName": "QLCafe.BAL.Interface",
-        "projectPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.BAL.Interface\\QLCafe.BAL.Interface.csproj",
+        "projectPath": "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.BAL.Interface\\QLCafe.BAL.Interface.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.BAL.Interface\\obj\\",
+        "outputPath": "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.BAL.Interface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -113,8 +113,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.Domain\\QLCafe.Domain.csproj": {
-                "projectPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.Domain\\QLCafe.Domain.csproj"
+              "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.Domain\\QLCafe.Domain.csproj": {
+                "projectPath": "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.Domain\\QLCafe.Domain.csproj"
               }
             }
           }
@@ -143,14 +143,14 @@
         }
       }
     },
-    "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.BAL\\QLCafe.BAL.csproj": {
+    "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.BAL\\QLCafe.BAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.BAL\\QLCafe.BAL.csproj",
+        "projectUniqueName": "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.BAL\\QLCafe.BAL.csproj",
         "projectName": "QLCafe.BAL",
-        "projectPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.BAL\\QLCafe.BAL.csproj",
+        "projectPath": "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.BAL\\QLCafe.BAL.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.BAL\\obj\\",
+        "outputPath": "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.BAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -169,11 +169,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.BAL.Interface\\QLCafe.BAL.Interface.csproj": {
-                "projectPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.BAL.Interface\\QLCafe.BAL.Interface.csproj"
+              "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.BAL.Interface\\QLCafe.BAL.Interface.csproj": {
+                "projectPath": "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.BAL.Interface\\QLCafe.BAL.Interface.csproj"
               },
-              "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.DAL.Interface\\QLCafe.DAL.Interface.csproj": {
-                "projectPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.DAL.Interface\\QLCafe.DAL.Interface.csproj"
+              "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.DAL.Interface\\QLCafe.DAL.Interface.csproj": {
+                "projectPath": "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.DAL.Interface\\QLCafe.DAL.Interface.csproj"
               }
             }
           }
@@ -202,14 +202,14 @@
         }
       }
     },
-    "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.DAL.Interface\\QLCafe.DAL.Interface.csproj": {
+    "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.DAL.Interface\\QLCafe.DAL.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.DAL.Interface\\QLCafe.DAL.Interface.csproj",
+        "projectUniqueName": "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.DAL.Interface\\QLCafe.DAL.Interface.csproj",
         "projectName": "QLCafe.DAL.Interface",
-        "projectPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.DAL.Interface\\QLCafe.DAL.Interface.csproj",
+        "projectPath": "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.DAL.Interface\\QLCafe.DAL.Interface.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.DAL.Interface\\obj\\",
+        "outputPath": "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.DAL.Interface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -228,8 +228,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.Domain\\QLCafe.Domain.csproj": {
-                "projectPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.Domain\\QLCafe.Domain.csproj"
+              "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.Domain\\QLCafe.Domain.csproj": {
+                "projectPath": "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.Domain\\QLCafe.Domain.csproj"
               }
             }
           }
@@ -258,14 +258,14 @@
         }
       }
     },
-    "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.DAL\\QLCafe.DAL.csproj": {
+    "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.DAL\\QLCafe.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.DAL\\QLCafe.DAL.csproj",
+        "projectUniqueName": "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.DAL\\QLCafe.DAL.csproj",
         "projectName": "QLCafe.DAL",
-        "projectPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.DAL\\QLCafe.DAL.csproj",
+        "projectPath": "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.DAL\\QLCafe.DAL.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.DAL\\obj\\",
+        "outputPath": "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -284,8 +284,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.DAL.Interface\\QLCafe.DAL.Interface.csproj": {
-                "projectPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.DAL.Interface\\QLCafe.DAL.Interface.csproj"
+              "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.DAL.Interface\\QLCafe.DAL.Interface.csproj": {
+                "projectPath": "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.DAL.Interface\\QLCafe.DAL.Interface.csproj"
               }
             }
           }
@@ -322,14 +322,14 @@
         }
       }
     },
-    "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.Domain\\QLCafe.Domain.csproj": {
+    "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.Domain\\QLCafe.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.Domain\\QLCafe.Domain.csproj",
+        "projectUniqueName": "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.Domain\\QLCafe.Domain.csproj",
         "projectName": "QLCafe.Domain",
-        "projectPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.Domain\\QLCafe.Domain.csproj",
+        "projectPath": "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.Domain\\QLCafe.Domain.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.Domain\\obj\\",
+        "outputPath": "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

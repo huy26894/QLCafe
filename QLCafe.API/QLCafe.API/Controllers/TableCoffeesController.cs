@@ -50,8 +50,8 @@ namespace QLCafe.API.Controllers
 
 
         [HttpPost]
-        [Route("api/TableCoffees/addbyid/{id}")]
-        public bool TableCoffeesAddByID(TableCoffeesAdd Requets)
+        [Route("api/TableCoffees/addbyid")]
+        public bool TableCoffeesAddByID(TableCoffeesAddByID Requets)                     
         {
             return _tableCoffeesService.TableCoffeesAddByID(Requets);
         }
@@ -64,7 +64,7 @@ namespace QLCafe.API.Controllers
         }
 
         [HttpGet]
-        [Route("api/ProductTypes/getbookedatable")]
+        [Route("api/TableCoffees/getbookedatable")]
         public IList<TableCoffees> TableCoffeesGetBookedATable()
         {
             return _tableCoffeesService.TableCoffeesGetBookedATable();
@@ -92,14 +92,14 @@ namespace QLCafe.API.Controllers
         }
 
         [HttpPut]
-        [Route("api/TableCoffees/delete/{id}")]
+        [Route("api/TableCoffees/tobook/{id}")]
         public bool TableCoffeesTobook(int Id)
         {
             return _tableCoffeesService.TableCoffeesTobook(Id);
         }
 
         [HttpPut]
-        [Route("api/TableCoffees/delete/{id}")]
+        [Route("api/TableCoffees/tocanbook/{id}")]
         public bool TableCoffeesToCanBook(int Id)
         {
             return _tableCoffeesService.TableCoffeesToCanBook(Id);

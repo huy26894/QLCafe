@@ -12,7 +12,7 @@ namespace QLCafe.BAL.Interface
         TableCoffees TableCoffeesGetByID(int Id);
         bool TableCoffeesAdd(TableCoffeesAdd Requets);
         bool TableCoffeesUpdate(TableCoffeesUpdate Requets);
-        bool TableCoffeesAddByID(TableCoffeesAdd Requets);
+        bool TableCoffeesAddByID(TableCoffeesAddByID Requets);
         bool TableCoffeesDelete(int Id);
         IList<TableCoffees> TableCoffeesGetBookedATable();
         IList<TableCoffees> TableCoffeesGetByIdArea(int Id);

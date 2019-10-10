@@ -1540,11 +1540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.DAL\\QLCafe.DAL.csproj",
+      "projectUniqueName": "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.DAL\\QLCafe.DAL.csproj",
       "projectName": "QLCafe.DAL",
-      "projectPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.DAL\\QLCafe.DAL.csproj",
+      "projectPath": "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.DAL\\QLCafe.DAL.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.DAL\\obj\\",
+      "outputPath": "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1563,8 +1563,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.DAL.Interface\\QLCafe.DAL.Interface.csproj": {
-              "projectPath": "D:\\Module2\\QLCaFe\\QLCaFe.API\\QLCafe.API\\QLCafe.DAL.Interface\\QLCafe.DAL.Interface.csproj"
+            "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.DAL.Interface\\QLCafe.DAL.Interface.csproj": {
+              "projectPath": "D:\\caseStudyModule2\\QLCafe\\QLCafe.API\\QLCafe.DAL.Interface\\QLCafe.DAL.Interface.csproj"
             }
           }
         }

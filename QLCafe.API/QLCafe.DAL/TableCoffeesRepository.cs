@@ -29,7 +29,7 @@ namespace QLCafe.DAL
             }
         }
 
-        public bool TableCoffeesAddByID(TableCoffeesAdd Requets)
+        public bool TableCoffeesAddByID(TableCoffeesAddByID Requets)
         {
             try
             {
@@ -70,7 +70,7 @@ namespace QLCafe.DAL
         {
             DynamicParameters parameters = new DynamicParameters();
             parameters.Add("@Id", Id);
-            TableCoffees tableCoffeesGetByID = SqlMapper.Query<TableCoffees>(con, "TableCoffees_GetByID", parameters, commandType: CommandType.StoredProcedure).FirstOrDefault();
+            TableCoffees tableCoffeesGetByID = SqlMapper.Query<TableCoffees>(con, "TableCoffees_GetById", parameters, commandType: CommandType.StoredProcedure).FirstOrDefault();
             return tableCoffeesGetByID;
         }
 
